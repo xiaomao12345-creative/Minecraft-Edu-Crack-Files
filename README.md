@@ -1,7 +1,5 @@
 # Minecraft Edu Crack Files  
-
-这个是已知的mc教育版绕登录的文件  
---manifest.json  
+ 
 
 针对于mc教育版登录限制的文件  
 
